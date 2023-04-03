@@ -1,4 +1,5 @@
 **游戏名：Tetris Snake（俄罗斯贪吃蛇）** 
+![image](https://user-images.githubusercontent.com/77612159/229412655-e91f0c34-bb33-47dc-af18-daab1769c859.png)
 
 **游戏基本说明：**<br />
 1.食物落地变成方块，玩家需要在相应规定时间内完成消除方块与小蛇捕食两项任务<br />

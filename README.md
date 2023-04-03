@@ -16,6 +16,6 @@
 **运行程序方法：**<br />
 python Tetris_Snake_init.py
 
-**参考：**
+**参考：**<br />
 https://zhuanlan.zhihu.com/p/78637310  <br />
 https://github.com/liuzuoping/python_Games  <br />
